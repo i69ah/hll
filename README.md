@@ -13,7 +13,7 @@ go get github.com/i69ah/hll
 package main
 
 import (
-    "github/i69ah/hll"
+    "github.com/i69ah/hll"
 )
 ```
 2. Create Sketch instance using one of three factory methods
@@ -44,7 +44,7 @@ package main
 
 import (
     "fmt"
-    "github/i69ah/hll"
+    "github.com/i69ah/hll"
 )
 
 func main() {
